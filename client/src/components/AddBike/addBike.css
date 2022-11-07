@@ -1,0 +1,14 @@
+form {
+  background: #e9eaed;
+  border-radius: 5px;
+  box-shadow: inset 0px 0px 1px 0px rgba(0, 0, 0, 0.5);
+}
+
+.submit-rent {
+  background-color: #14d07b;
+  color: white;
+}
+
+.submit-rent:hover {
+  color: white;
+}

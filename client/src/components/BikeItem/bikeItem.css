@@ -1,0 +1,8 @@
+.rent {
+  background-color: #2530a4;
+  color: white;
+}
+
+.rent:hover {
+  color: aliceblue;
+}
