@@ -11,4 +11,4 @@ cd ..
 
 npm install
 
-npm run dev
+npm run dev Or Nom start
